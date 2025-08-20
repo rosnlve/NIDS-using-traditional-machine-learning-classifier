@@ -1,5 +1,5 @@
 # NIDS-using-traditional-machine-learning-classifier 
-(There will be an English version later on this file, keep scrolling and you will see it)
+(An English version is provided later in this file. Scroll down if needed to see it.)
 =========================================================
 NIÊN LUẬN CƠ SỞ - NGÀNH AN TOÀN THÔNG TIN
 Đề tài: Thống kê và đánh giá các mô hình máy học truyền thống trong phát hiện xâm nhập mạng
